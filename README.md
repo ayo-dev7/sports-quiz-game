@@ -12,7 +12,6 @@ Welcome to the Sports Quiz Game repository! This project allows you to create an
 - [Usage](#usage)
 - [Game Mechanics](#game-mechanics)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
